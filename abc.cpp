@@ -2,7 +2,7 @@
 #include<string.h>
 void main()
 {
-	printf("%d",s);
+	printf("%d",sum(100));
 }
 
 int sum(int n)
