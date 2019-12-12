@@ -1,11 +1,15 @@
 #include"stdio.h"
-
+#include<string.h>
 void main()
 {
-	int i = 0,s = 0;
-	for(;i<100;i++)
+	printf("%d",s);
+}
+
+int sum(int n)
+{
+	for(int i=0;i<n;i++)
 	{
 		s+=i;
 	}
-	printf(s);
+	return s;
 }
