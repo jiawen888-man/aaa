@@ -1,3 +1,6 @@
+/*
+	create a hahaha
+*/
 #include"stdio.h"
 #include<string.h>
 void main()
